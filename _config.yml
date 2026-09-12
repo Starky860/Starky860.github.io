@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Stark's Blog
+title: Hexo
 subtitle: ''
-description: '世界属于最凶猛的理想主义者'
-keywords: '读书随笔,社会观察'
-author: Starky860
-language: zh
+description: ''
+keywords:
+author: John Doe
+language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://Starky860.github.io
+url:https://Starky860.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,7 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: landscape
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
